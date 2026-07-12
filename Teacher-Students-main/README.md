@@ -1,0 +1,2 @@
+# Teacher-Students
+A simple startup beginer level project in which a student can register a subject teacher and have multiple teachers with multiple subjects . Also teacher can see which students register in which subject Along with authentication and much more.
